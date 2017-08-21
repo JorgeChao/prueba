@@ -1,0 +1,6 @@
+#include "Hola.h"
+
+int main()
+{
+	printf("Hola Mundo"};
+}
