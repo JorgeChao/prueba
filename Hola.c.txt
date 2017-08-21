@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hola Mundo"};
+	printf("Hola Mundo");
 	printf("Development 1.3");
-
+	printf("Development 2.1");
 }
